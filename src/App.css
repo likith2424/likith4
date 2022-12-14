@@ -1,0 +1,26 @@
+.nav-item{
+
+  
+}
+#rr{
+  padding-left: 10px ;
+}
+.btn-secondary{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.Footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.card{
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 50px;
+  border-radius: 2px solid;
+  border-style: inset;
+  padding: 6zz0px;
+  
+}
+
